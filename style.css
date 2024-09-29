@@ -1,0 +1,208 @@
+@charset "utf-8";
+
+.inner{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header-nav{
+    display: flex;
+    align-items: center;
+    height: 70px;
+}
+
+.header-item{
+    margin-left: auto;
+}
+
+.header-item nav ul{
+    display: flex;
+}
+
+body{
+	color: #404040;
+	background-color: #fff;
+    
+}
+
+main{
+    margin-right: auto;
+    margin-left: auto;
+    width: 850px;
+    line-height: normal;
+    letter-spacing: 0.1em;
+}
+
+
+.inner {
+	width: 960px;
+	margin: auto;
+	overflow: hidden;
+}
+
+h1{
+	font-size: 20px;
+    font-weight: bold;
+	font-family: europa;
+	letter-spacing: .1em;
+    line-height: 175%;
+	padding-bottom: 16px;
+    padding-top: 34px;
+}
+
+
+h2{
+	padding: 20px 0;
+	font-weight: bold;
+}
+
+.p-media{
+	padding: 10px 0;
+}
+
+details summary{
+	padding: 30px;
+}
+
+.media{
+	padding: 20px 0;
+	font-weight: bold;
+}
+
+li{
+	list-style: none;
+	padding-left: 0;
+}
+
+
+
+html{
+    font-size: 100%;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: flex;
+}
+
+body{
+    margin: 15.5px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin-left: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffaa33;
+}
+
+.mainpicture{
+    width: 85%;
+    margin: 30px auto;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+    
+.container2{
+    display: flex;
+    gap: 20px;
+    width: 80%;
+}
+
+.comment{
+    display: flex;
+    width: 80%;
+}
+
+.container3{
+    display: flex;
+    gap: 30px;
+    width: 80%;
+}
+
+.container4{
+    display: flex;
+    gap: 20px;
+    width: 80%;
+}
+
+#nav ul{
+    list-style: none;
+}
+#nav ul li{
+    display: inline-block;
+    
+}
+
+.mama{
+    font-weight: bold;
+}
+
+p{
+    padding: 10px 0;
+}
+
+.famm{
+    font-weight: bold;
+    padding: 25px;
+}
+
+ol li{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ol li p{
+    padding-top: 20px;
+}
+
+.box{
+    display: flex;
+    width: 80%;
+}
+
+.order{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffaa33;
+    border-radius: 20px;
+}
+ 
+.order p a{
+    color: #404040;
+}
+
+.fammschool{
+    width: 80%;
+    padding-left: 120px;
+}
+
+.Amazon{
+    width: 70%;
+    padding-left: 120px;
+}
+
+h3{
+    font-weight: bold;
+}
+
